@@ -1,0 +1,82 @@
+\documentclass[10pt]{article}
+\usepackage[a4paper,margin=0.75in]{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+
+\setlength{\parindent}{0pt}
+
+\titleformat{\section}
+  {\large\bfseries}
+  {}
+  {0em}
+  {}[\titlerule]
+
+\begin{document}
+
+\begin{center}
+    {\LARGE \textbf{Geetha K C}} \\
+    \vspace{4pt}
+    Aspiring Marketing \& Product Marketing Professional \\
+    \vspace{4pt}
+    \href{https://github.com/she-codesstuff}{github.com/she-codesstuff}
+\end{center}
+
+\vspace{6pt}
+
+\section*{Professional Summary}
+Marketing-oriented technologist with hands-on experience building digital products, brand prototypes, and campaign-ready websites. Strong foundation in product storytelling, user-centric design, and data-driven thinking. Passionate about scaling meaningful products through creative marketing, growth experimentation, and impactful brand narratives.
+
+\section*{Marketing \& Brand Experience}
+
+\textbf{InternSphere – Internship Discovery Platform} \hfill HTML, CSS \\
+\begin{itemize}[leftmargin=*]
+    \item Designed a product website focused on trust, clarity, and conversion for students seeking verified internships.
+    \item Applied product marketing principles such as value proposition clarity, audience targeting, and user journey mapping.
+    \item Positioned the platform as a solution to internship fraud through messaging and visual hierarchy.
+\end{itemize}
+
+\textbf{Luxury Clothing Line Mockup} \hfill Brand \& Visual Marketing \\
+\begin{itemize}[leftmargin=*]
+    \item Built a luxury fashion brand prototype emphasizing premium positioning and aspirational storytelling.
+    \item Developed landing pages aligned with brand identity, color psychology, and customer perception.
+    \item Demonstrated understanding of digital branding, aesthetic consistency, and audience appeal.
+\end{itemize}
+
+\textbf{Women Safety App – Product Prototype} \hfill User-Centric Marketing \\
+\begin{itemize}[leftmargin=*]
+    \item Created a product concept addressing real-world safety challenges through technology.
+    \item Focused on user trust, emotional resonance, and problem-solution framing.
+    \item Applied empathy-driven messaging and socially impactful branding.
+\end{itemize}
+
+\section*{Creative \& Digital Projects}
+
+\textbf{Personal Portfolio Website} \\
+\begin{itemize}[leftmargin=*]
+    \item Designed and deployed a personal brand website showcasing projects and skills.
+    \item Applied SEO-friendly structure, clean layouts, and storytelling through content.
+\end{itemize}
+
+\textbf{Multiple Frontend Projects (Swiggy Clone, Ticket Booking, Adoption Platform)} \\
+\begin{itemize}[leftmargin=*]
+    \item Built user-focused web experiences simulating real consumer platforms.
+    \item Strengthened understanding of customer behavior, conversion flow, and interface optimization.
+\end{itemize}
+
+\section*{Skills}
+
+\textbf{Marketing \& Strategy:} Product Marketing, Brand Positioning, User Research, Campaign Planning, Storytelling, Growth Mindset \\
+\textbf{Creative \& Digital:} HTML, CSS, JavaScript, Website Prototyping, Visual Design, UX Basics \\
+\textbf{Tools:} GitHub, Version Control, Jupyter Notebook \\
+\textbf{Soft Skills:} Analytical Thinking, Communication, Problem Solving, Adaptability
+
+\section*{Education}
+
+\textbf{Bachelor’s Degree (Engineering Background)} \\
+Strong foundation in logic, analytics, and problem-solving applicable to data-driven marketing roles.
+
+\section*{Career Objective}
+To contribute to Google’s marketing and product growth teams by combining creativity, technology, and user-first thinking to build meaningful, scalable, and globally impactful products.
+
+\end{document}
