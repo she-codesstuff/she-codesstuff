@@ -1,18 +1,32 @@
-# 💫 About Me:
-About Me – Technical Focus<br><br>I am Geetha K C, an engineering student actively building a strong foundation in programming, data structures, and web development. I consistently practice concepts through hands-on projects and maintain my progress publicly on GitHub.<br><br>I focus on understanding core fundamentals—logic, problem-solving, and clean implementation—while gradually improving my ability to design and build functional applications. 
+Hi, I'm Geetha K C
+AI Engineer | Electronics & Communication Engineering Student | Problem Solver
+I am an Electronics and Communication Engineering student passionate about building intelligent software using Artificial Intelligence, Large Language Models (LLMs), and modern software engineering.
+My current focus is on developing practical AI applications by combining Python, Data Structures & Algorithms, Retrieval-Augmented Generation (RAG), Prompt Engineering, AI Agents, and API integration. I enjoy transforming ideas into real-world projects that solve meaningful problems.
+I believe in learning by building. Every project I create helps me strengthen my understanding of system design, clean code, debugging, and software development best practices.
+Current Focus
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:geethaaa373@gmail.com) 
+Building AI-powered applications with LLMs
+Learning RAG, Vector Databases & Embeddings
+Exploring AI Agents and Agentic Workflows
+Solving Data Structures & Algorithms problems
+Improving Python and Backend Development
+Building production-ready AI projects
 
+Connect With Me
+Email: geethaaa373@gmail.com
+Tech Stack
+Programming Languages
+AI / Machine Learning
+Web Technologies
+Tools
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=she-codesstuff&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=she-codesstuff&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=she-codesstuff&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Featured Projects
 
----
-[![](https://visitcount.itsvg.in/api?id=she-codesstuff&icon=0&color=0)](https://visitcount.itsvg.in)
+QuickGpt — Fullstack RAG chatbot with JWT auth, FAISS vector search, and per-user document Q&A with source citations (FastAPI + React)
+AI Interview Copilot — Resume-aware interview prep tool that generates and scores questions using an LLM (Streamlit + Gemini)
+Data Structures & Algorithms Solutions
+Machine Learning Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+GitHub Stats
+Quote
+"The best way to learn engineering is to build, break, debug, and build again."
