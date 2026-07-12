@@ -16,11 +16,11 @@ Building production-ready AI projects
 
 Connect With Me
 Email: geethaaa373@gmail.com
+
 Tech Stack
-Programming Languages
+Programming Languages: Python,C++
 AI / Machine Learning
-Web Technologies
-Tools
+
 
 Featured Projects
 
