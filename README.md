@@ -1,6 +1,6 @@
 Hi, I'm Geetha K C
 
-AI Engineer | Electronics & Communication Engineering Student | Problem Solver
+Ml Engineer | Electronics & Communication Engineering Student | Problem Solver
 
 I am an Electronics and Communication Engineering student passionate about building intelligent software using Artificial Intelligence, Large Language Models (LLMs), and modern software engineering.
 My current focus is on developing practical AI applications by combining Python, Data Structures & Algorithms, Retrieval-Augmented Generation (RAG), Prompt Engineering, AI Agents, and API integration. I enjoy transforming ideas into real-world projects that solve meaningful problems.
@@ -18,8 +18,8 @@ Connect With Me
 Email: geethaaa373@gmail.com
 
 Tech Stack
-Programming Languages: Python,C++
-AI / Machine Learning
+Programming Languages: (Python preferred)
+
 
 
 Featured Projects
